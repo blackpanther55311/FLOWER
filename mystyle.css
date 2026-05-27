@@ -1,0 +1,14 @@
+body {
+   background-colour: white;
+}
+
+h1,
+h2 {
+   colour: rgb(134, 68, 79) text-align:center;
+}
+
+p {
+   colour: black;
+   text algin: justify;
+   font-size: 20px;
+}
